@@ -1,4 +1,4 @@
-# PowerBI-Data-Analysis-and-Dashboard
+# PowerBI-Data-Analysis-and-Dashboard Project
 Power BI dashboard project using data modelling, visualisation, KPI reporting and business insights.
 
 ## Overview
